@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vwez3n0fi-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vwez3n0fi-java-springboot-gitops
